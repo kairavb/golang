@@ -6,7 +6,7 @@ func main() {
 	var intslice = []int{1, 2, 3}
 	fmt.Println(sumslice(intslice))
 
-	var floatslice = []float32{1, 2, 3}
+	var floatslice = []float32{1, 2, 3, 4, 5}
 	fmt.Println(sumslice(floatslice))
 }
 
